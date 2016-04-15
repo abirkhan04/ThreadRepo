@@ -22,6 +22,8 @@ public class CountX extends Thread {
 			  test[i].start();
 			  System.out.println(X);
 			  
+			  System.out.println("This is a change");
+			  
 		  }
 		  System.out.println("final"+X);
 	}
